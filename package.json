@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egzidev/smart-filter.git"
+    "url": "git+https://github.com/egzidev/smart-filtero.git"
   },
   "bugs": {
-    "url": "https://github.com/egzidev/smart-filter/issues"
+    "url": "https://github.com/egzidev/smart-filtero/issues"
   },
   "dependencies": {
     "react": "^18.3.1",
